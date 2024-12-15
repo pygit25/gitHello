@@ -1,4 +1,4 @@
 print('hello word')
 
-for i i range(4):
+for i in range(4):
     print('la la la')
